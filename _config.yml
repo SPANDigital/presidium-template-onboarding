@@ -9,7 +9,7 @@
 # - external: Links to external sources
 #    - authors-url: base url for article authors
 # NOTE: If you have a baseurl be sure to append it to any static content path e.g.: ${baseurl}/media/images/logo.png
-name: Presidium Template
+name: Presidium Template - Onboarding
 #baseurl: /mysite
 footer: Template Footer
 logo: /media/images/logo.png
@@ -29,9 +29,8 @@ external:
 # Collections directories require a leading underscore: "./content/_{collection-name}/"
 #
 collections:
-    overview:
-    key-concepts:
-    prerequisites:
+    organization-overview:
+    solution-overview:
     getting-started:
     best-practices:
     reference:
@@ -50,18 +49,14 @@ collections:
 # - collapsed: Whether articles should show in a tree or collapsed into a single item
 #
 sections:
-  - title: "Overview"
+  - title: "Organization Overview"
     url: "/"
-    collection: overview
-    collapsed: true
+    collection: organization-overview
+    collapsed: false
 
-  - title: "Key Concepts"
-    url: "/key-concepts/"
-    collection: key-concepts
-
-  - title: "Prerequisites"
-    url: "/prerequisites/"
-    collection: prerequisites
+  - title: "Solution Overview"
+    url: "/solution-overview/"
+    collection: solution-overview
 
   - title: "Getting Started"
     url: "/getting-started/"
