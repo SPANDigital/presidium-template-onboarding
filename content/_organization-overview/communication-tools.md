@@ -1,8 +1,12 @@
 ---
 title: Communication Tools
+author: author
 ---
 
-This article lists the ways you can communicate with your team:
+This article should list the ways to communicate with your team:
 * Slack channel(s)
-* Standups
+* Emails
+
+It can also contain schedules for regular team get-togethers, such as:
+* Daily standups
 * Team meetings

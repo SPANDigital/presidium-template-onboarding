@@ -9,7 +9,7 @@
 # - external: Links to external sources
 #    - authors-url: base url for article authors
 # NOTE: If you have a baseurl be sure to append it to any static content path e.g.: ${baseurl}/media/images/logo.png
-name: Presidium Template - Onboarding
+name: Onboarding Template
 #baseurl: /mysite
 footer: Template Footer
 logo: /media/images/logo.png
@@ -31,12 +31,12 @@ external:
 collections:
     organization-overview:
     solution-overview:
+    technology-stack:
+    tool-chain:
+    dev-environment-setup:
     getting-started:
-    best-practices:
-    reference:
     glossary:
-    recipes:
-    tools:
+    reference:
     updates:
 
 #
@@ -58,30 +58,31 @@ sections:
     url: "/solution-overview/"
     collection: solution-overview
 
+  - title: "Technology Stack"
+    url: "/technology-stack/"
+    collection: technology-stack
+
+  - title: "Tool Chain"
+    url: "/tool-chain/"
+    collection: tool-chain
+
+  - title: "Dev Environment Setup"
+    url: "/dev-environment-setup/"
+    collection: dev-environment-setup
+
   - title: "Getting Started"
     url: "/getting-started/"
     collection: getting-started
-
-  - title: "Best Practices"
-    url: "/best-practices/"
-    collection: best-practices
-
-  - title: "Reference"
-    url: "/reference/"
-    collection: reference
 
   - title: "Glossary"
     url: "/glossary/"
     collection: glossary
     export-content: true
 
-  - title: "Recipes"
-    url: "/recipes/"
-    collection: recipes
-
-  - title: "Tools"
-    url: "/tools/"
-    collection: tools
+  - title: "Reference"
+    url: "/reference/"
+    collection: reference
+    export-content: true
 
   - title: "Updates"
     url: "/updates/"

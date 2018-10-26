@@ -1,4 +1,4 @@
 ---
-title: A Glossary Term
+title: Glossary Term
 author: author
 ---
