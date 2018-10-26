@@ -35,7 +35,7 @@ collections:
     tool-chain:
     dev-environment-setup:
     getting-started:
-    glossary:
+#    glossary:
     reference:
     updates:
 
@@ -74,10 +74,10 @@ sections:
     url: "/getting-started/"
     collection: getting-started
 
-  - title: "Glossary"
-    url: "/glossary/"
-    collection: glossary
-    export-content: true
+#  - title: "Glossary"
+#    url: "/glossary/"
+#    collection: glossary
+#    export-content: true
 
   - title: "Reference"
     url: "/reference/"

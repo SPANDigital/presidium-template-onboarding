@@ -3,8 +3,9 @@ title: Project Lifecycle
 author: author
 ---
 
-This article can describe the company development phases and the output for each phase.
+This article should provide a high-level description of the organization's development phases and the output for each phase.
 
+For example:
 * Planning
 * Kickoff
 * Early development
