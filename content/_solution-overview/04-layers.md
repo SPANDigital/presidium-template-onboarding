@@ -7,9 +7,8 @@ This article should contain information about the layers that perform a similar 
 
 Examples include:
 
-* Internal services
-* External services
+* Internally facing services
+* Externally facing services
 * Clients
-* Integration layers
 * Messaging
 * Data storage

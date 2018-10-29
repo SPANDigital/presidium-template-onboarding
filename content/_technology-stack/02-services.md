@@ -6,15 +6,11 @@ author: author
 
 This article should contain information on the services that run in the application to process data.
 
-Examples include:
+Examples of services include:
 * API
 * Worker (consumers, producers)
 * Script
 * Microservice
-* Cron
+* Cron job
 
-Technology examples:
-* Python
-* Java
-* Golang
-* Scala
+Services might be written in Python, Java, Golang, or Scala.

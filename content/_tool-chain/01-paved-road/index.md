@@ -1,3 +1,0 @@
----
-title: Paved Road
----

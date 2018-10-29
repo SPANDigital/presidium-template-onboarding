@@ -10,6 +10,5 @@ Examples include:
 * Atlassian Jira
 * Assana
 * Atlassian Trello
-* Atlassian Confluence
 
 Optionally, add links to the official websites.

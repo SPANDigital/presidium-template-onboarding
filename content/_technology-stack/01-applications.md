@@ -5,15 +5,9 @@ author: author
 
 This article should contain information on the client-facing or internal applications developed by the organization.
 
-Examples include:
+Examples of applications include:
 * Web app
 * iOS app
 * Android app
 
-Technology examples:
-* Javascript
-* HTML
-* React
-* Node
-* AngularJS
-* Django
+Applications might be written in Javascript, HTML, React, Node, AngularJS, or Django.

@@ -9,5 +9,6 @@ Examples include:
 
 * Amazon Web Services (AWS)
 * Google Cloud Provider (GCP)
+* AppDynamics
 
 Optionally, add links to the official websites.
