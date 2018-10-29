@@ -3,10 +3,13 @@ title: Environments
 author: author
 ---
 
-This article should contain information about the build and release cycle stages.
+This article should contain information about the environments for each build and release cycle stage.
 
 For example:
-* Develop & verify, validate, release for verification, release candidate, release for operation
-* Develop, test, stage, production
 
-Optionally, this article can include information on any 3rd party testing or integration that occurs before releasing to production.
+* Develop & verify
+* Test/Validate
+* QA/Release for verification
+* Production/Release for operation
+
+Optionally, this article can include information on any 3rd party testing or integration environment that is used before releasing to production.
