@@ -12,6 +12,6 @@ Examples include:
 * CircleCI
 * Azure Pipelines
 * Atlassian Bamboo
-* JetbBrains Teamcity
+* JetBrains Teamcity
 
 Optionally, add links to the official websites.
