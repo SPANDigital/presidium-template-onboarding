@@ -19,7 +19,6 @@ System:
 Software:
 
 * Required software (and version) - linking out to software webpage where appropriate
-* Setting up environments to manage different software versions (e.g. virtualenv)
 
 IDE:
 
