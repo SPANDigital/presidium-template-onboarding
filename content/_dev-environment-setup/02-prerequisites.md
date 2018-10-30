@@ -3,27 +3,28 @@ title: Prerequisites
 author: author
 ---
 
-E.g.:
+This article should contain the information the new employee needs before getting started.
 
-Security:
+# Security
 
-* Authentication (connecting to secure services)
+* Authentication (how to connect to secure services)
 * Authorization (permissions granted on secured resources)
-* Credentials set up (e.g. ssh keys)
+* Credentials setup (for example, SSH keys)
 
-System:
+# System
 
 * Physical System requirements (if appropriate)
 * OS requirements
 
-Software:
+# Software
 
-* Required software (and version) - linking out to software webpage where appropriate
+* Required software (and version), linking out to software webpage if appropriate
+* Build tools
 
-IDE:
+# IDE
 
-* Preferred IDE used by team (if appropriate)
+* Preferred IDE used by the team (if appropriate)
 
-Conceptual:
+# Conceptual
 
-Any other resources required to understand the process of setting up the development environment, e.g., Docker, Virtual Machines.
+Information about any other resources required to understand the process of setting up the development environment (for example, Docker, Virtual Machines).

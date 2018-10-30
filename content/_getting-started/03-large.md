@@ -8,3 +8,5 @@ At this point, the new employee should be ready to tackle a more comprehensive t
 * Creating a new feature
 
 If you prefer time-based milestones, map the large task to a time frame (week 3, month 2, etc.).
+
+This article should include a link to [Prerequisites]({{sitebase.url}}/dev-environment-setup/#prerequisites).

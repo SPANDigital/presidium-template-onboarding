@@ -1,9 +1,9 @@
 ---
-title: Standard Development Workflow
+title: Sample Development Workflow
 author: author
 ---
 
-This article should describe the standard development workflow. For example, the following workflow could be used for a hotfix:
+This article should describe the standard development workflow. For example, the following workflow might be used for a hotfix:
 
 1. Create branch off of master.
 2. Develop-test cycle.

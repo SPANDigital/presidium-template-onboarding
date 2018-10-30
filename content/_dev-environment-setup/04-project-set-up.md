@@ -1,11 +1,11 @@
 ---
-title: Project Set Up
+title: Project Setup
 author: author
 ---
 
-Instructions on how to get the project running:
+This article should contain instructions on how to get the project running, including topics such as:
 
-* Bootstrapping Scripts
+* Bootstrapping scripts
 * Cloning repositories
 * Building
 * Configurations for local development

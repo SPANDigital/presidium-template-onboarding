@@ -3,8 +3,9 @@ title: Setting up your Development Environment
 author: author
 ---
 
-Use this article to introduce the details of setting up a development environment, e.g.
+This article should contain information on setting up a development environment.
 
-* Expected amount of time (one week, one day etc)
+Possible topics include:
+* Expected amount of time (one week, one day etc.)
 * Support persons/groups
 * Gotchas

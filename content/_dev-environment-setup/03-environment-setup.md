@@ -3,7 +3,9 @@ title: Environment Setup
 author: author
 ---
 
-Setting up environments to manage different software versions, e.g.,
+This article should contain information about setting up the  environments to manage different software versions.
+
+Examples include:
 
 * virtualenv
 * rvm, rbenv

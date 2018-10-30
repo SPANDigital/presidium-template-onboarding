@@ -9,3 +9,5 @@ New employees want to get their hands on the company's code and start to contrib
 * Making a simple code change, running tests, and committing the change
 
 If you prefer time-based milestones, map the small task to a time frame (day 1, week 1, etc.).
+
+This article should include a link to [Prerequisites]({{sitebase.url}}/dev-environment-setup/#prerequisites).

@@ -9,5 +9,3 @@ This article should contain information on how to get help from various sources,
 * Facilities
 * System Administrators
 * HR
-
-Consider also adding adding a link to the [Other Resources]({{sitebase.url}}/reference/#other-resources) article in References.
