@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Welcome
 author: author
 ---
 
@@ -8,8 +8,8 @@ This article should let the new employee know that by joining this organization,
 It can include a summary of the structure and goals of the onboarding site, with links.
 
 # Team
-* [Learn more about the company]({{sitebase.url.}}#company-background-vision-and-principles)
-* [See who's on your team and who'll be your mentor]({{sitebase.url}}/#teams-and-roles)
+* [Learn more about the company]({{sitebase.url}}#company-background-vision-and-principles)
+* [See who's on your team and who'll be your mentor]({{sitebase.url}}#teams-and-roles)
 * [Find out where to get help]({{sitebase.url}}/#getting-help)
 
 # Product
