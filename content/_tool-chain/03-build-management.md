@@ -1,5 +1,5 @@
 ---
-title: Build Management
+title: Build Management/Continuous Integration
 author: author
 ---
 

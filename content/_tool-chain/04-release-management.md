@@ -3,7 +3,7 @@ title: Release Management
 author: author
 ---
 
-This article should contain information about the tools used for operational monitoring that record all deployed events reported by deployed systems.
+This article should contain information about the tools used for operational management that record all deployed events reported by deployed systems.
 
 Examples include:
 
