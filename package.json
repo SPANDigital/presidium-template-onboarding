@@ -1,16 +1,17 @@
 {
-  "name": "presidium-hugo",
+  "name": "presidium-template-onboarding",
   "version": "1.0.0",
-  "description": "Converter for Jekyll sites to Hugo sites",
+  "description": "Base template for a Hugo Presidium site.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "hugo serve"
   },
-  "author": {
-    "name": "SPAN Digital",
-    "email": "presidium@spandigital.com"
-  },
+  "authors": [
+    {
+      "name": "SPAN Digital",
+      "email": "presidium@spandigital.com"
+    }
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/SPANDigital/presidium-hugo/issues"
