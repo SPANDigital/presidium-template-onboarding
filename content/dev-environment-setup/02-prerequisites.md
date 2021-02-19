@@ -1,9 +1,9 @@
 ---
 title: Prerequisites
 author: author
+slug: prerequisites
 url: dev-environment-setup/prerequisites
 weight: 2
-slug: prerequisites
 ---
 
 This article should contain the information the new employee needs before getting started.

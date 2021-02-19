@@ -1,7 +1,7 @@
 ---
 title: An Update
 author: author
-url: updates/update
 slug: update
+url: updates/update
 ---
 Content...

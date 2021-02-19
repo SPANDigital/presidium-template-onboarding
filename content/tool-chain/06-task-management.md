@@ -1,9 +1,9 @@
 ---
 title: Task Management
 author: author
+weight: 6
 slug: task-management
 url: tool-chain/task-management
-weight: 6
 ---
 
 This article should contain information about the ticketing systems for managing assignment and execution of tasks.

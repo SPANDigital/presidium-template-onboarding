@@ -1,9 +1,9 @@
 ---
 title: Small
 author: author
+weight: 1
 slug: small
 url: getting-started/small
-weight: 1
 ---
 
 New employees want to get their hands on the company's code and start to contribute quickly. To do this, identify a small but meaningful task such as:

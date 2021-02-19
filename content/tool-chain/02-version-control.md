@@ -1,9 +1,9 @@
 ---
 title: Version Control
 author: author
-slug: version-control
 url: tool-chain/version-control
 weight: 2
+slug: version-control
 ---
 
 This article should contain information about the version control system that tracks all changes to files and the user who made the change.
