@@ -1,9 +1,9 @@
 ---
 title: Data Stores
 author: author
+weight: 3
 slug: data-stores
 url: technology-stack/data-stores
-weight: 3
 ---
 
 This article should contain information on the data stores used in the application.

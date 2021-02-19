@@ -1,9 +1,9 @@
 ---
 title: Functional Areas
 author: author
+weight: 3
 slug: functional-areas
 url: solution-overview/functional-areas
-weight: 3
 ---
 
 This article should contain information on the functional areas in the application. A functional area is a set of services that work together to achieve a particular business objective/outcome.

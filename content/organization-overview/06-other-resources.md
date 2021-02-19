@@ -1,9 +1,9 @@
 ---
 title: Other Resources
 author: author
+slug: other-resources
 url: //other-resources
 weight: 6
-slug: other-resources
 ---
 
 This article should have information and links to supplemental information or internal company resources, such as:

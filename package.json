@@ -1,0 +1,31 @@
+{
+  "name": "presidium-hugo",
+  "version": "1.0.0",
+  "description": "Converter for Jekyll sites to Hugo sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hugo serve"
+  },
+  "author": {
+    "name": "SPAN Digital",
+    "email": "presidium@spandigital.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPANDigital/presidium-hugo/issues"
+  },
+  "homepage": "https://github.com/SPANDigital/presidium-hugo#readme",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "classnames": "^2.2.6",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "^7.2.2",
+    "redux": "^4.0.5",
+    "redux-promise": "^0.6.0",
+    "rxjs": "^6.6.3",
+    "rxjs-compat": "^6.6.3"
+  }
+}

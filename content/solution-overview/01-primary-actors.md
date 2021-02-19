@@ -1,9 +1,9 @@
 ---
 title: Primary Actors
 author: author
+slug: primary-actors
 url: solution-overview/primary-actors
 weight: 1
-slug: primary-actors
 ---
 
 This article should contain information on the primary actors for the application.  

@@ -1,9 +1,9 @@
 ---
 title: Primary Use Cases
 author: author
-weight: 2
 slug: primary-use-cases
 url: solution-overview/primary-use-cases
+weight: 2
 ---
 
 This article should contain information on the primary use cases for the application.  

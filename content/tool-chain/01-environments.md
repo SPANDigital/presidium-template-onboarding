@@ -1,9 +1,9 @@
 ---
 title: Environments
 author: author
-weight: 1
 slug: environments
 url: tool-chain/environments
+weight: 1
 ---
 
 This article should contain information about the environments for each build and release cycle stage.

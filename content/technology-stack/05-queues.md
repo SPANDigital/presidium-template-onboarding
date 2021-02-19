@@ -1,9 +1,9 @@
 ---
 title: Queues
 author: author
+url: technology-stack/queues
 weight: 5
 slug: queues
-url: technology-stack/queues
 ---
 
 This article should contain information on the queues used in the application.

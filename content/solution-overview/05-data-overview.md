@@ -1,9 +1,9 @@
 ---
 title: Data Overview
 author: author
-weight: 5
 slug: data-overview
 url: solution-overview/data-overview
+weight: 5
 ---
 
 This article should contain information such as the following:
